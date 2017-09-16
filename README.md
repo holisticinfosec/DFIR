@@ -1,5 +1,5 @@
 # DFIR
-The other DFIR: Deeper Functionality for Investigators with R
+## The other DFIR: Deeper Functionality for Investigators with R
 
 “To competently perform rectifying security service, two critical incident response elements are necessary: 
 information & organization.” 
