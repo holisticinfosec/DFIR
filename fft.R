@@ -3,6 +3,8 @@
 # http://nathanieldphillips.com/2016/08/making-fast-good-decisions-with-the-fftrees-r-package/
 
 library("FFTrees")
+
+# Set the path for read.csv to where you stored CVSS.csv
 cvss <- read.csv("c:/coding/r/FFTrees/CVSS.csv")
 cvss.fft <- FFTrees(formula = critical ~., data = cvss)
 
